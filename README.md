@@ -19,10 +19,6 @@ I am a student of Information and Communication Technology (ICT) with a strong f
 
 ## **Projects**
 
-### **Matikkapeli**
-A simple arithmetic game that allows users to practice basic calculations. It generates random questions and keeps track of the highest scores based on the username.
-https://github.com/ValtteriVartiainen/Projects/blob/main/Matikkapeli/README.md
-
 ### **SimpleCalculator**
 A basic calculator application that performs simple arithmetic operations like addition, subtraction, multiplication, and division.
 https://github.com/ValtteriVartiainen/Projects/blob/main/SimpleCalculator/README.md
