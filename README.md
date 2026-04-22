@@ -2,31 +2,32 @@
 
 ## **About Me**
 
-I am a student of Information and Communication Technology (ICT) with a strong foundation in programming and web development. I have hands-on experience in various programming languages and technologies, which I've utilized in both academic projects and personal development. I am eager to continue learning and challenging myself to grow both professionally and personally, embracing new technologies and tackling complex problems to further enhance my skills and knowledge.
+I am an Information and Communication Technology (ICT) student currently pursuing a Bachelor of Engineering at JAMK University of Applied Sciences. I have a solid foundation in programming and web development, with hands-on experience from both academic projects and personal work.
+
+I am particularly interested in software development and continuously improving my skills by building practical projects and learning new technologies. My goal is to grow into a professional developer by gaining deeper expertise and real-world experience.
 
 ## **Skills**
 
-- **Programming Languages:**
-  - C#
-  - Python
-  - HTML, CSS, JavaScript
+* **Programming Languages:**
+
+  * C#
+  * Python
+  * HTML, CSS, JavaScript
 
 ## **Education**
 
-- **Information and Communication Technology**  
-  Gradia  
-  Expected Graduation Date 05/31/2025
+* **Information and Communication Technology**
+  Gradia
+  Graduation Date: 05/31/2025
+
+* **Bachelor of Engineering, Information and Communication Technology**
+  JAMK University of Applied Sciences
+  In Progress – Expected Graduation: 2029
 
 ## **Projects**
 
-### **SimpleCalculator**
-A basic calculator application that performs simple arithmetic operations like addition, subtraction, multiplication, and division.
-https://github.com/ValtteriVartiainen/Projects/blob/main/SimpleCalculator/README.md
-
-### **Blackjack Game**
-A web-based Blackjack game developed using HTML, CSS, and JavaScript. The game simulates the classic card game, where players aim to get a hand value of 21 without exceeding it. The game features interactive buttons for drawing cards and ending the game, and includes logic for handling card values, checking for a win or loss, and displaying the results on the web page.
-https://github.com/ValtteriVartiainen/Projects/blob/main/BlackJack/README.md
+* Projects will be added here as I continue developing and learning.
 
 ## **Contact Information**
 
-- **Email:** vartiainen.valtteri@gmail.com
+* **Email:** [vartiainen.valtteri@gmail.com](mailto:vartiainen.valtteri@gmail.com)
